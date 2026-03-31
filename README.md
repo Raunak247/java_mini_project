@@ -173,8 +173,9 @@ java ExpenseUI
 ## 👨‍💻 Author
 
 **Your Name**
-
-* GitHub: https://github.com/your-username
+Raunak Pantawane
+Rachit deogirikar
+* GitHub: https://github.com/Raunak247
 
 ---
 
