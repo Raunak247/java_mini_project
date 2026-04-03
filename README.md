@@ -174,7 +174,7 @@ java ExpenseUI
 
 **Your Name**
 Raunak Pantawane
-Rachit deogirikar
+
 * GitHub: https://github.com/Raunak247
 
 ---
